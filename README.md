@@ -1,4 +1,4 @@
-# Nqueen Problem
+# Nqueen + Backtracking
 
 Português:
 
