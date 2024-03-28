@@ -1,6 +1,7 @@
 # Nqueen-backtracking
 
-#Português:
+Português:
+
 Problema das N rainhas utilizando backtracking
 
 O problema das N-Rainhas é um dos desafios mais conhecidos na área de inteligência artificial e busca combinatória. Ele consiste em posicionar N rainhas em um tabuleiro de xadrez NxN de tal forma que nenhuma rainha ameace as outras, ou seja, nenhuma rainha pode estar na mesma linha, coluna ou diagonal de outra. 
@@ -9,7 +10,7 @@ Para avaliação do problema e das colisões são analisadas por um vetor s de n
 
 Backtracking é um algoritmo genérico que busca, por força bruta, soluções possíveis para problemas computacionais (tipicamente problemas de satisfações à restrições).
 
-#English:
+English:
 
 N queens problem using backtracking
 
